@@ -1,0 +1,9 @@
+/ (raiz)
+├── index.html
+├── css/
+│   └── style.css
+├── img/
+│   ├── perfil.jpg
+│   ├── fly1.jpg
+│   ├── fly2.jpg
+│   └── fly3.jpg
